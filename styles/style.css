@@ -261,6 +261,8 @@
     text-transform: uppercase;
     line-height: 120%;
     margin: 51px 40px 0;
+    position: relative;
+    z-index: 2;
 }
 
 .card__text {
@@ -268,6 +270,8 @@
     font-weight: 400;
     line-height: 120%;
     margin: 0 40px 48px;
+    position: relative;
+    z-index: 2;
 }
 
 .card__text_ellipses {
