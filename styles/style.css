@@ -366,6 +366,7 @@
     font-weight: 400;
     line-height: normal;
     cursor: pointer;
+    text-decoration: underline;
 }
 
 .footer__menu-link_active {
